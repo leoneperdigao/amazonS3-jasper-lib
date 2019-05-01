@@ -1,0 +1,13 @@
+*.log
+*.zip
+logs/
+target/
+test-output/
+.settings
+.project
+.classpath
+.DS_Store
+.factorypath
+.evosuite
+.scaffolding_list.tmp
+jacoco.exec
